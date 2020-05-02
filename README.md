@@ -1,2 +1,2 @@
 # Public-Chat
- Platform for chatting publicaaly to anyone
+ Platform for chatting publicly to anyone
